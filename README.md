@@ -1,8 +1,3 @@
-# Since the user wants a README.md for their Git repository, I will generate it as a downloadable file.
-# The README will include features, installation, usage, and protocol details based on the provided code.
-
-readme_content = """# Universal AV Display Emulator (8 Brands)
-
 A versatile Python-based network emulator for professional AV display protocols. This tool allows developers and AV programmers (Crestron, Extron, Q-SYS, etc.) to simulate multiple hardware displays simultaneously on a single computer.
 
 ## Features
